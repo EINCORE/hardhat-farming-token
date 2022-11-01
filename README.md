@@ -107,6 +107,6 @@ ETH/Polygon/Avalanche/etc Address: 0x2834C5B18e9f99E092bdA22c685350A5199eacE5
 
 
 
-![https://twitter.com/ein_punk](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=https://twitter.com/ein_punk)
 
-![https://t.me/+vge5dQtNoL0yZGZh](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=https://t.me/+PY48IVqpvfxiZjBh)
